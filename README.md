@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+create a .env.local file in the root. See env.example for environment variables
 yarn install
 ```
 
